@@ -1,0 +1,4 @@
+npm install -g browserify
+browserify --version
+
+browserify index.js > index-browser.js// which entry point to browserify
